@@ -1,4 +1,5 @@
 ## Hi there 👋
+![s](https://github.com/1Neda1/1Neda1/assets/107118340/75a32906-863d-45e8-9583-361bbffdb372)
 
 + ###  🔭 I’m currently working on Predicting TFBS using CNN
 + ###  🌱 I’m Interested in machine learning in life sciences
